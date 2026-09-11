@@ -1,5 +1,4 @@
 {
-  "current_year": 2027,
-  "data_version": 1,
-  "main_data_url": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/data_2027.json"
+  "version_code": 1,
+  "master_json_url": "https://raw.githubusercontent.com/divyagurustudy-gif/calendar-master-data/refs/heads/main/data_2027.json"
 }
