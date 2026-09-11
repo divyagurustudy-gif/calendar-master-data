@@ -4,14 +4,14 @@
     {
       "month_id": 1,
       "month_name": "January",
-      "calendar_image_url": "https://cdn.jsdelivr.net/gh/your_username/calendar-master-data@main/images/jan_2027.webp",
-      "festival_html_url": "https://cdn.jsdelivr.net/gh/your_username/calendar-master-data@main/html/jan_festivals.html"
+      "calendar_image_url": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/jan_2027.webp",
+      "festival_html_url": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/jan_festivals.html"
     },
     {
       "month_id": 2,
       "month_name": "February",
-      "calendar_image_url": "https://cdn.jsdelivr.net/gh/your_username/calendar-master-data@main/images/feb_2027.webp",
-      "festival_html_url": "https://cdn.jsdelivr.net/gh/your_username/calendar-master-data@main/html/feb_festivals.html"
+      "calendar_image_url": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/feb_2027.webp",
+      "festival_html_url": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/feb_festivals.html"
     }
   ],
   "daily_panchang": [
