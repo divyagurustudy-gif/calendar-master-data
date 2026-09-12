@@ -1,32 +1,31 @@
 {
   "year": 2027,
-  "calendar_images": {
+  "front_images": {
     "jan": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglA87eoB-Xbs2DKF_ez5bk4x5hQz_eLRJ3AUPgBHITPAhoQ0m5rC_8mNljVGnJ-UiyzgtJjKjwbtsGCr37d1-AQ0a55q8rGJqlF4jYZee7vJ_MUwE_ajJ5BjgZveBq-NtQv5pHl4ue1olS_mXQYy2CrH9J2ExP-Y-ACfxwSep5NrFdC88bJkSuS2Bp2_E/s2504/thakur_1.jpg",
     "feb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitpfrmXu1ECrH0sl1emqzjEYBbGXAM1qfFXfsJBAeubd7IkSKtv3O7QNGZaEeObmNyU0WSdWHOHcTHUCl1qfEFI2y-yFMVrBJzZRTL9aNGCxp2w4b4gQV5yVcAn8TStNPOsFApKi2LGn0rL6EG4sep8FtyY1y2np1sT0f24UgQRwAFGyeyLOMkJtvRWaI/s2548/thakur_2.jpg",
     "mar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpj3XuS_-eQopDFrgVIWCwlTvg8TA4haM0qMpbEvSUHhxUfcUF2JqOaFfIXLEvK9RGgmat_tOdRQmWOqYlUoNqDl9RNMN-uNtwVVHdcMN7Ss6bS0vQ6omm6xXm9LCzLR6y22BU4A97SpMNmN-vo3PjxTssynI7wA74GdFqBa5vIPpRwk7iqSudwgyqXbw/s2568/thakur_3.jpg",
-    "apr":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3rziW-vWCcngTtd6rhrBZ1CeL6CEItC3xuYN12K5U2TKVaEZLEtvKF1Xnw5jB35_Yaw-SxW2YedcXFOju-qSlKfItcW5VdMRxYVh5zyRSKXDyitV7_eB58rqDIh8GLJF7nb8hRDD-lbD1qPamH-5VXGOJ6I2Qq2VwUa4jkKuVlkdX9iqYSFuz8LnNp38/s2532/thakur_4.jpg",
-    "may":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9-b9mCRw0yrAxfQjW6z5JBSV6bAjmb03ocqaj6dJ4aymiEqqPdqm2JBGPkr-EurUI1LNH8n8byez1mF2DG2zNkyRpAT6V9Aj8JEiciCu_P6LWNcdBT-9gSmeAVSJmMAcy0hf0eBcOhIvWA9B0MEQkZxVHHK2pqAHdekJ93QQpCPxZWfndddY2-a4Sfk/s2572/thakur_5.jpg",
-    "jun":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56pBmL3aNQi2ORCL1ybA_5C9jFQmW3am-JENeENfuX7CNjDb4C1kqXYlCDi3krVaRZNxM8j0ysDe-m80hZOeCtLFMz2I5K0j7Fk2eDKrI2_XsgdPBHG7Y67VtzHK3tpTctGP5cZMVoijV8OzzJF8ZFTLBTX_Or3rkh-cDmi5aTWiusrcKfFrr0VmKfSc/s2576/thakur_6.jpg",
-    "jul":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxPP56uqPk35JrDf3QUPJNc2BjX_DvYO0FAybfrqQib_IlQwwAkeIq0ZHxd4oKG_o23_5R_J1QTzgsKf0aV6xT-dyehZBQGhmelagt6i9grEyEIzeerIw7SFE1cGUcnX-n4LUaQYIoEHpyRQL6zjWAqzxMHpxpHm_J_Tx4875P25QGbYWwjmqcfb8w5U/s2556/thakur_7.jpg",
-    "aug":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1vBhUZ8dYMWxB5adI1qhr6YwXvNoYJjH7W-8wPclKgtQNIldFNYsibTv0xWV5Wedklh5Gokt_pOkSwSxPb6hVfZYpuWtUoB61q_TywvRiAP3yBc69oVMGXzupmwxw9FOZU0tkRwST3s1_H9wrx5xEvzLiIoFr0_psDsLD8UQ3OSeB-QeoiD1TozftxE/s2516/thakur_8.jpg",
-    "sep":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-MGAMJmYnvaY3HR6QPeAW7p6EUIrknDDAUySExjkg658uTJdidx7JNmU5BPAPEzS2y-LQ-MDJgDrrXQNXUdftr00vehfSjSBNwaxB0nWf6lDV-Q9DjMDtq9BqaZ-KP5w6YEvAxsh91h7bzphH7MtsPtUc2n1MT3Os3IyaZKWzFRB2ut6cjExM8tHap4/s2476/thakur_9.jpg",
-    "oct":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwHRlLmCpxbV10G8-bCCk1H2OZe6Y62AL1ayq6aOiVraQbp4fa-Wj7gfbLrepJwfxuriP4JTpAHJhaGAyypOK5yu9dNALVfBSs7zr_5i9kyqnKSXUcDvtEn-_CSLMpBasEl09dbi1fpYZGPpEmn4jQGqDMmmUngT9HxpufsHiMv8781sSeV_HDke03ayg/s2560/thakur_10.jpg",
-    "nov":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr92gAfFvN1zyro6u0g17D1pKQ_du7Z0FLetKQ01hrcUGXrb-IZENLgiRxGPS6HA8EZDk-SGen0yUqOOqQ4gDgSNhKmzbCLsUv1NKYUfumWRQG5cZAn6usvHqhsRkX1nAJldDcwYy2DqdoZeXnGUqdsWGP3UzVhqKjY657ZfsNUUFIlbJFPv7wyPPLNOo/s2596/thakur_11.jpg",
-    "dec":  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS19y0TiRgQL4pW5bA2r3QGuP6Nej-XGhRrCTU9kMg7V8Hhs4K0TVu8L2OwgZAu7xmxpFdLFovPPGWC20ZCxHYMANa-hMbu7zGO0Hfbn_eoLhsX3ai9iiKcVtGF1JnI1bzONxg_gYuVXeAmGxzMMOZHQxx9sWKjEonyNj75mo7akxFQvvTmDk1KRgujNw/s2536/thakur_12.jpg"
-   
+    "apr": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3rziW-vWCcngTtd6rhrBZ1CeL6CEItC3xuYN12K5U2TKVaEZLEtvKF1Xnw5jB35_Yaw-SxW2YedcXFOju-qSlKfItcW5VdMRxYVh5zyRSKXDyitV7_eB58rqDIh8GLJF7nb8hRDD-lbD1qPamH-5VXGOJ6I2Qq2VwUa4jkKuVlkdX9iqYSFuz8LnNp38/s2532/thakur_4.jpg",
+    "may": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN9-b9mCRw0yrAxfQjW6z5JBSV6bAjmb03ocqaj6dJ4aymiEqqPdqm2JBGPkr-EurUI1LNH8n8byez1mF2DG2zNkyRpAT6V9Aj8JEiciCu_P6LWNcdBT-9gSmeAVSJmMAcy0hf0eBcOhIvWA9B0MEQkZxVHHK2pqAHdekJ93QQpCPxZWfndddY2-a4Sfk/s2572/thakur_5.jpg",
+    "jun": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56pBmL3aNQi2ORCL1ybA_5C9jFQmW3am-JENeENfuX7CNjDb4C1kqXYlCDi3krVaRZNxM8j0ysDe-m80hZOeCtLFMz2I5K0j7Fk2eDKrI2_XsgdPBHG7Y67VtzHK3tpTctGP5cZMVoijV8OzzJF8ZFTLBTX_Or3rkh-cDmi5aTWiusrcKfFrr0VmKfSc/s2576/thakur_6.jpg",
+    "jul": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxPP56uqPk35JrDf3QUPJNc2BjX_DvYO0FAybfrqQib_IlQwwAkeIq0ZHxd4oKG_o23_5R_J1QTzgsKf0aV6xT-dyehZBQGhmelagt6i9grEyEIzeerIw7SFE1cGUcnX-n4LUaQYIoEHpyRQL6zjWAqzxMHpxpHm_J_Tx4875P25QGbYWwjmqcfb8w5U/s2556/thakur_7.jpg",
+    "aug": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1vBhUZ8dYMWxB5adI1qhr6YwXvNoYJjH7W-8wPclKgtQNIldFNYsibTv0xWV5Wedklh5Gokt_pOkSwSxPb6hVfZYpuWtUoB61q_TywvRiAP3yBc69oVMGXzupmwxw9FOZU0tkRwST3s1_H9wrx5xEvzLiIoFr0_psDsLD8UQ3OSeB-QeoiD1TozftxE/s2516/thakur_8.jpg",
+    "sep": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-MGAMJmYnvaY3HR6QPeAW7p6EUIrknDDAUySExjkg658uTJdidx7JNmU5BPAPEzS2y-LQ-MDJgDrrXQNXUdftr00vehfSjSBNwaxB0nWf6lDV-Q9DjMDtq9BqaZ-KP5w6YEvAxsh91h7bzphH7MtsPtUc2n1MT3Os3IyaZKWzFRB2ut6cjExM8tHap4/s2476/thakur_9.jpg",
+    "oct": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwHRlLmCpxbV10G8-bCCk1H2OZe6Y62AL1ayq6aOiVraQbp4fa-Wj7gfbLrepJwfxuriP4JTpAHJhaGAyypOK5yu9dNALVfBSs7zr_5i9kyqnKSXUcDvtEn-_CSLMpBasEl09dbi1fpYZGPpEmn4jQGqDMmmUngT9HxpufsHiMv8781sSeV_HDke03ayg/s2560/thakur_10.jpg",
+    "nov": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr92gAfFvN1zyro6u0g17D1pKQ_du7Z0FLetKQ01hrcUGXrb-IZENLgiRxGPS6HA8EZDk-SGen0yUqOOqQ4gDgSNhKmzbCLsUv1NKYUfumWRQG5cZAn6usvHqhsRkX1nAJldDcwYy2DqdoZeXnGUqdsWGP3UzVhqKjY657ZfsNUUFIlbJFPv7wyPPLNOo/s2596/thakur_11.jpg",
+    "dec": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS19y0TiRgQL4pW5bA2r3QGuP6Nej-XGhRrCTU9kMg7V8Hhs4K0TVu8L2OwgZAu7xmxpFdLFovPPGWC20ZCxHYMANa-hMbu7zGO0Hfbn_eoLhsX3ai9iiKcVtGF1JnI1bzONxg_gYuVXeAmGxzMMOZHQxx9sWKjEonyNj75mo7akxFQvvTmDk1KRgujNw/s2536/thakur_12.jpg"
   },
-    "Htmls": {
-    "hindufestival": "https://raw.githubusercontent.com/divyagurustudy-gif/calendar-master-data/refs/heads/main/jan_festivals.html",
-    "muslime_festival": "https://raw.githubusercontent.com/divyagurustudy-gif/calendar-master-data/refs/heads/main/mundan.html",
-    "mesh": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/mar_2027.webp",
-    "vishab": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/apr_2027.webp",
-    "mithun": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/may_2027.webp",
-    "kark": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/jun_2027.webp",
-    "singh": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/jul_2027.webp",
-    "tula": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/aug_2027.webp",
-    "sep": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/sep_2027.webp",
-    "oct": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/oct_2027.webp",
-    "nov": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/nov_2027.webp",
-    "dec": "https://cdn.jsdelivr.net/gh/divyagurustudy-gif/calendar-master-data@main/images/dec_2027.webp"
+  "back_images": {
+    "jan": "https://blogger.googleusercontent.com/img/b/.../thakur_1_back.jpg",
+    "feb": "https://blogger.googleusercontent.com/img/b/.../thakur_2_back.jpg",
+    "mar": "https://blogger.googleusercontent.com/img/b/.../thakur_3_back.jpg",
+    "apr": "https://blogger.googleusercontent.com/img/b/.../thakur_4_back.jpg",
+    "may": "https://blogger.googleusercontent.com/img/b/.../thakur_5_back.jpg",
+    "jun": "https://blogger.googleusercontent.com/img/b/.../thakur_6_back.jpg",
+    "jul": "https://blogger.googleusercontent.com/img/b/.../thakur_7_back.jpg",
+    "aug": "https://blogger.googleusercontent.com/img/b/.../thakur_8_back.jpg",
+    "sep": "https://blogger.googleusercontent.com/img/b/.../thakur_9_back.jpg",
+    "oct": "https://blogger.googleusercontent.com/img/b/.../thakur_10_back.jpg",
+    "nov": "https://blogger.googleusercontent.com/img/b/.../thakur_11_back.jpg",
+    "dec": "https://blogger.googleusercontent.com/img/b/.../thakur_12_back.jpg"
   }
 }
